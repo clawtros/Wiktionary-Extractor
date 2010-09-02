@@ -1,0 +1,4 @@
+Wiktionary Extractor
+--------------------
+
+Generates SQL to turn wiktionary dumps from http://download.wikimedia.org/ into a simpler database. 
